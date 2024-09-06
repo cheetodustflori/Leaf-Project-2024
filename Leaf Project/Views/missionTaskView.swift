@@ -17,7 +17,7 @@ struct missionTaskView: View {
     
     @StateObject var viewModel = missionTaskViewViewModel()
     @State private var tasks =
-    [Task(name: "brokerage account setup", isCompleted: false),
+    [Task(name: "brokerage angela account setup", isCompleted: false),
      Task(name: "roth ira vs traditional ira", isCompleted: false),
      Task(name: "investment strategies", isCompleted: false),
      Task(name: "money management", isCompleted: false),
