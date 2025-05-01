@@ -1,8 +1,8 @@
 //
 //  LFButton.swift
-//  practice 2
 //
-//  Created by Quynh Tram on 11/9/23.
+//  Unused
+//  Custom button
 //
 
 import SwiftUI
@@ -27,8 +27,6 @@ struct LFButton: View {
                 .foregroundColor(Color(.white))
 
         }
-            
-        
         }
         
         .padding()

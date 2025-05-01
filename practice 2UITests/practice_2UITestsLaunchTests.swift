@@ -2,7 +2,6 @@
 //  practice_2UITestsLaunchTests.swift
 //  practice 2UITests
 //
-//  Created by Quynh Tram on 11/4/23.
 //
 
 import XCTest

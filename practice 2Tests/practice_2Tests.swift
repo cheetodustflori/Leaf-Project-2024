@@ -2,11 +2,9 @@
 //  practice_2Tests.swift
 //  practice 2Tests
 //
-//  Created by Quynh Tram on 11/4/23.
 //
 
 import XCTest
-@testable import practice_2
 
 final class practice_2Tests: XCTestCase {
 
